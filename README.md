@@ -2,12 +2,19 @@
 
 
 Name: Y. Sherisha
+
 Task: Design a Multi-Cloud Architecture Where Services Are Distributed Across Two Cloud Providers
-Platform Used: AWS EC2 + GCP Cloud Storage
-AWS Instance ID: i-03aaff0e727ab36a6
+
+Platform Used: AWS EC2 + GCP Cloud Storage 
+
+AWS Instance ID: i-03aaff0e727ab36a6 
+
 Instance Name: multitech11
+
 Public IP: 15.207.223.7
+
 GCP Bucket Name: multicloud11
+
 GCP Public File URL: https://storage.googleapis.com/multicloud11/hm.jpg
 
 **📌 Steps Performed:**
