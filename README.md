@@ -32,15 +32,23 @@ Set up a web server on AWS
 Created GCP Cloud Storage bucket
 
   – Bucket Name: multicloud11
+  
   – Uploaded image file (hm.jpg)
+  
   – Enabled public access for allUsers with Storage Object Viewer role
 
 Embedded GCP content in AWS
+
   – Updated HTML on EC2 to reference GCP image
+  
   – Verified successful image display on AWS-served web page
 
 **✅ Result:**
+
 Multi-cloud architecture successfully deployed.
+
 AWS EC2 instance served a web page with content sourced from GCP Cloud Storage.
+
 Live link: http://15.207.223.7
+
 Embedded image: https://storage.googleapis.com/multicloud11/hm.jpg
