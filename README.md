@@ -13,16 +13,24 @@ GCP Public File URL: https://storage.googleapis.com/multicloud11/hm.jpg
 **📌 Steps Performed:**
 
 Created EC2 instance on AWS
+
+
   – Type: t2.micro, Amazon Linux 2
+
   – Port 80 opened in security group
+
   – Connected via SSH using kp11.pem
 
 Set up a web server on AWS
+
   – Created index.html with basic message and GCP image embed
+  
   – Served using: sudo python3 -m http.server 80
+
   – Verified at: http://15.207.223.7
 
 Created GCP Cloud Storage bucket
+
   – Bucket Name: multicloud11
   – Uploaded image file (hm.jpg)
   – Enabled public access for allUsers with Storage Object Viewer role
